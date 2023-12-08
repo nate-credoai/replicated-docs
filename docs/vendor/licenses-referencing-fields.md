@@ -61,7 +61,7 @@ To reference license fields at runtime, send an HTTP request to the admin consol
 http://kotsadm:3000/license/v1/license
 ```
 
-The query returns a response in YAML format. For example:
+The query returns a response in JSON format. For example:
 
 ```javascript
 {"license_id":"WicPRaoCv1pJ57ZMf-iYRxTj25eZalw3",
